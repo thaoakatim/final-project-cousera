@@ -1,0 +1,16 @@
+.social-link{
+    display: flex;
+    flex-direction: column;
+}
+
+ul li img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
